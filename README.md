@@ -1,5 +1,6 @@
 ![Run unit tests](https://github.com/rosieeaves/CI/workflows/Run%20unit%20tests/badge.svg)
 ![Run on multiple OS](https://github.com/rosieeaves/CI/workflows/Run%20on%20multiple%20OS/badge.svg)
+[![BCH compliance](https://bettercodehub.com/edge/badge/rosieeaves/CI?branch=main)](https://bettercodehub.com/)
 
 # OxRSE Continuous Integration course
 
